@@ -1,0 +1,1 @@
+export const IDLE_GAME_ADDRESS = "0x0000000000000000000000000000000000000000"; // Replace with deployed address
