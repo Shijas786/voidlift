@@ -1,7 +1,0 @@
-*.ptau
-*.zkey
-
-/node_modules
-/build
-
-build

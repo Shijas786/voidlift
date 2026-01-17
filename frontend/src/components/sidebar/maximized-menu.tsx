@@ -26,7 +26,7 @@ const MaxMenu = ({ current, onExpand, onSignOut, user }: Props) => {
             height={30}
           />
           <h1 className="pointer-events-none z-10 whitespace-pre-wrap bg-gradient-to-b from-[#D7009A] via-[#ff2975] to-[#8c1eff] bg-clip-text text-center ml-1 text-2xl font-bold leading-none text-transparent">
-            Deximpli
+            VoidLift
           </h1>
         </Link>
         <Menu

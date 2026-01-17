@@ -10,7 +10,7 @@ function Discover() {
       <main className="mt-16 max-w-[1300px] p-4 md:pl-20 justify-center items-center place-content-center w-full md:pr-20">
         <Fade damping={0.1}>
           <h1 className="text-4xl font-bold text-center">
-            Discover What Makes Deximpli Exceptional
+            Discover What Makes VoidLift Exceptional
           </h1>
         </Fade>
         <Fade
@@ -20,7 +20,7 @@ function Discover() {
           <p className="md:w-[600px] text-lg text-center mt-6">
             {" "}
             By leveraging email addresses and cutting-edge technologies like
-            zk-rollups and Account Abstraction, Deximpli removes the complexity
+            zk-rollups and Account Abstraction, VoidLift removes the complexity
             associated with traditional crypto wallets, attracting new users and
             accelerating DeFi adoption.
           </p>

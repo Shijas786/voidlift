@@ -28,7 +28,7 @@ function ApiSection() {
               SDK Integration for Programmers
             </h1>
             <Fade className="text-xl mr-6 text-[#191A1A]">
-              An SDK enabling developers to integrate Deximpli's email-based
+              An SDK enabling developers to integrate VoidLift's email-based
               wallet into their dapps for seamless, secure web3 transactions as
               simple as using a credit card.
             </Fade>

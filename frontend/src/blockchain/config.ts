@@ -16,7 +16,7 @@ export const projectId = process.env.NEXT_PUBLIC_PROJECT_ID;
 
 // Create wagmiConfig
 export const config = getDefaultConfig({
-  appName: "Deximpli",
+  appName: "VoidLift",
   //@ts-ignore
   projectId: projectId,
   chains: [modeTestnet, baseSepolia, optimismSepolia, celoAlfajores, localhost],

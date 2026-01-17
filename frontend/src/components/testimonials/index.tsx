@@ -35,84 +35,84 @@ const TestimonialsData = [
     name: "David Marcus",
     role: "Crypto Analyst",
     speech:
-      "I've been trading cryptocurrencies for years, and  Deximpli has become my go-to platform. The  real-time market data ensures I never miss a potential opportunity.",
+      "I've been trading cryptocurrencies for years, and  VoidLift has become my go-to platform. The  real-time market data ensures I never miss a potential opportunity.",
   },
   {
     image: "/images/Vector (2).png",
     name: "Mary Kent",
     role: "Crypto Novice",
     speech:
-      "The flashloan triangle arbitrage feature on Deximpli is a game-changer for experienced traders like myself. I've been able to maximize my profits and take advantage of arbitrage opportunities like never before.",
+      "The flashloan triangle arbitrage feature on VoidLift is a game-changer for experienced traders like myself. I've been able to maximize my profits and take advantage of arbitrage opportunities like never before.",
   },
   {
     image: "/images/Vector (3).png",
     name: "Lincoln Vann",
     role: "Crypto Trader",
     speech:
-      "Thanks to this Deximpli's innovative approach, I've introduced friends and family to the world of cryptocurrencies with ease, simply by sending them digital assets to their email addresses.",
+      "Thanks to this VoidLift's innovative approach, I've introduced friends and family to the world of cryptocurrencies with ease, simply by sending them digital assets to their email addresses.",
   },
   {
     image: "/images/Vector (4).png",
     name: "Jane Ann",
     role: "Crypto Analyst",
     speech:
-      "Sending cryptocurrencies via email? Mind-blowing! Deximpli has truly revolutionized the way we transact digital assets. I've sent crypto to friends with just their email addresses, making it incredibly convenient.",
+      "Sending cryptocurrencies via email? Mind-blowing! VoidLift has truly revolutionized the way we transact digital assets. I've sent crypto to friends with just their email addresses, making it incredibly convenient.",
   },
   {
     image: "/images/Vector (1).png",
     name: "David Marcus",
     role: "Crypto Analyst",
     speech:
-      "I've been trading cryptocurrencies for years, and  Deximpli has become my go-to platform. The  real-time market data ensures I never miss a potential opportunity.",
+      "I've been trading cryptocurrencies for years, and  VoidLift has become my go-to platform. The  real-time market data ensures I never miss a potential opportunity.",
   },
   {
     image: "/images/Vector (2).png",
     name: "Mary Kent",
     role: "Crypto Novice",
     speech:
-      "The flashloan triangle arbitrage feature on Deximpli is a game-changer for experienced traders like myself. I've been able to maximize my profits and take advantage of arbitrage opportunities like never before.",
+      "The flashloan triangle arbitrage feature on VoidLift is a game-changer for experienced traders like myself. I've been able to maximize my profits and take advantage of arbitrage opportunities like never before.",
   },
   {
     image: "/images/Vector (3).png",
     name: "Lincoln Vann",
     role: "Crypto Trader",
     speech:
-      "Thanks to this Deximpli's innovative approach, I've introduced friends and family to the world of cryptocurrencies with ease, simply by sending them digital assets to their email addresses.",
+      "Thanks to this VoidLift's innovative approach, I've introduced friends and family to the world of cryptocurrencies with ease, simply by sending them digital assets to their email addresses.",
   },
   {
     image: "/images/Vector (4).png",
     name: "Jane Ann",
     role: "Crypto Analyst",
     speech:
-      "Sending cryptocurrencies via email? Mind-blowing! Deximpli has truly revolutionized the way we transact digital assets. I've sent crypto to friends with just their email addresses, making it incredibly convenient.",
+      "Sending cryptocurrencies via email? Mind-blowing! VoidLift has truly revolutionized the way we transact digital assets. I've sent crypto to friends with just their email addresses, making it incredibly convenient.",
   },
   {
     image: "/images/Vector (1).png",
     name: "David Marcus",
     role: "Crypto Analyst",
     speech:
-      "I've been trading cryptocurrencies for years, and  Deximpli has become my go-to platform. The  real-time market data ensures I never miss a potential opportunity.",
+      "I've been trading cryptocurrencies for years, and  VoidLift has become my go-to platform. The  real-time market data ensures I never miss a potential opportunity.",
   },
   {
     image: "/images/Vector (2).png",
     name: "Mary Kent",
     role: "Crypto Novice",
     speech:
-      "The flashloan triangle arbitrage feature on Deximpli is a game-changer for experienced traders like myself. I've been able to maximize my profits and take advantage of arbitrage opportunities like never before.",
+      "The flashloan triangle arbitrage feature on VoidLift is a game-changer for experienced traders like myself. I've been able to maximize my profits and take advantage of arbitrage opportunities like never before.",
   },
   {
     image: "/images/Vector (3).png",
     name: "Lincoln Vann",
     role: "Crypto Trader",
     speech:
-      "Thanks to this Deximpli's innovative approach, I've introduced friends and family to the world of cryptocurrencies with ease, simply by sending them digital assets to their email addresses.",
+      "Thanks to this VoidLift's innovative approach, I've introduced friends and family to the world of cryptocurrencies with ease, simply by sending them digital assets to their email addresses.",
   },
   {
     image: "/images/Vector (4).png",
     name: "Jane Ann",
     role: "Crypto Analyst",
     speech:
-      "Sending cryptocurrencies via email? Mind-blowing! Deximpli has truly revolutionized the way we transact digital assets. I've sent crypto to friends with just their email addresses, making it incredibly convenient.",
+      "Sending cryptocurrencies via email? Mind-blowing! VoidLift has truly revolutionized the way we transact digital assets. I've sent crypto to friends with just their email addresses, making it incredibly convenient.",
   },
 ];
 
@@ -128,7 +128,7 @@ function Testimonials() {
         </div>
         <div className="w-full md:w-[700px]">
           <Fade damping={0.1} className="font-light text-xl mt-4">
-            These testimonials showcase Deximpli&apos;s dedication to driving
+            These testimonials showcase VoidLift&apos;s dedication to driving
             innovation and pushing the boundaries of cryptocurrency trading
             across the globe. If you have a hard-time believing us, then listen
             to what our users say.

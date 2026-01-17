@@ -12,7 +12,7 @@ export function WobbleCardDemo() {
       >
         <div className="max-w-xs">
           <h2 className="text-left text-balance text-base md:text-xl lg:text-3xl font-semibold tracking-[-0.015em] text-white">
-            Deximpli: Seamlessly Swap, Farm, and Transfer Crypto
+            VoidLift: Seamlessly Swap, Farm, and Transfer Crypto
           </h2>
           <p className="mt-4 text-left  text-base/6 text-neutral-200">
             All from One Platform. Join our growing community and experience the
